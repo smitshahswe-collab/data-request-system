@@ -54,7 +54,7 @@ A full-stack application for managing privacy-related data requests (Access, Del
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/smitshahswe-collab/data-request-system.git
 cd data-request-system
 ```
 
