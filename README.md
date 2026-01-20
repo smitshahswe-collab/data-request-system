@@ -1,6 +1,15 @@
 # **Data Request Processing System**
 
 A full-stack application for managing privacy-related data requests (Access, Delete, Correct) with AI-powered request summaries.
+---
+
+## Demo
+<img width="2553" height="1392" alt="Screenshot 2026-01-08 at 8 21 01 PM" src="https://github.com/user-attachments/assets/319ed973-ddc8-4122-9b6e-0fbeed63365d" />
+
+<img width="2548" height="1389" alt="Screenshot 2026-01-08 at 8 21 07 PM" src="https://github.com/user-attachments/assets/2be44329-57af-4474-a1a4-f9ffa2467e21" />
+
+<img width="2403" height="1342" alt="Screenshot 2026-01-08 at 8 21 17 PM" src="https://github.com/user-attachments/assets/36c89d68-6b48-4df0-94b1-0bd4ab4a4c55" />
+
 
 ## Tech Stack
 
@@ -54,7 +63,7 @@ A full-stack application for managing privacy-related data requests (Access, Del
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/smitshahswe-collab/data-request-system.git
 cd data-request-system
 ```
 
